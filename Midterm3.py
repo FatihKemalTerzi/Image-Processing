@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun May  7 12:19:36 2023
 
 @author: Fatih Kemal Terzi
 """
